@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "AirFusion: reliability-aware multimodal sensor fusion for civilian airspace safety"
+version: 0.1.0
+date-released: 2026-11-25
+type: software
+license: MIT
+repository-code: "https://github.com/MHKhan50/airspace-sensor-fusion-robustness"
+authors:
+  - family-names: Hussain
+    given-names: Muzammal
+    affiliation: "Independent researcher, Glasgow, United Kingdom"
+    orcid: "https://orcid.org/0009-0001-2570-5686"
+keywords:
+  - sensor fusion
+  - multimodal learning
+  - missing modalities
+  - calibration
+  - robustness

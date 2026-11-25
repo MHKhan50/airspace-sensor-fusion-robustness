@@ -4,8 +4,8 @@ import pandas as pd
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import accuracy_score, f1_score
 
-from skysentinel.data import FEATURES
-from skysentinel.model import build
+from airfusion.data import FEATURES
+from airfusion.model import build
 
 SENSOR_GROUPS = {
     "rgb": ["rgb_shape", "rgb_motion", "rgb_brightness"],
